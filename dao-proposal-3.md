@@ -1,4 +1,4 @@
-# Work Hard
+# DAO Proposal - Work Hard
 
 ## Monday
 Work Hard
